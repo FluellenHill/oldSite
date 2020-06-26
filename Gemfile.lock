@@ -254,7 +254,7 @@ PLATFORMS
 
 DEPENDENCIES
   devlopr (~> 0.4.5)
-  github-pages
+  github-pages (= 206)
   jekyll-feed (~> 0.13.0)
   jekyll-sleek (~> 0.1.9)
   minima (~> 2.5)

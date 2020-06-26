@@ -12,7 +12,7 @@ source "https://rubygems.org"
 gem "minima", "~> 2.5"
 gem 'devlopr', '~> 0.4.5'
 gem 'jekyll-sleek', '~> 0.1.9'
-gem 'jekyll-theme-prologue', '~> 0.3.3'
+gem 'jekyll-theme-prologue', '~> 0.3.2'
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", "206", group: :jekyll_plugins

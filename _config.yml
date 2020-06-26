@@ -31,8 +31,8 @@ github_username: 5LsTech
 
 # Build settings
 markdown: kramdown
-#remote-theme: janczizikow/sleek
-theme: jekyll-sleek
+remote-theme: janczizikow/sleek
+#theme: jekyll-sleek
 plugins:
   - jekyll-feed
 

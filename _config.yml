@@ -27,6 +27,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 tagline: Website Design and Setup | Technical Consultation | Application Development
 url: "https://5ls.tech" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 5LsTech
+instagram_username: 5LsTech
 github_username: 5LsTech
 
 # Build settings

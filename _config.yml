@@ -33,8 +33,14 @@ github_username: 5LsTech
 markdown: kramdown
 remote-theme: janczizikow/sleek
 #theme: jekyll-sleek
+
+compress_html:
+  clippings: all
+
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -32,7 +32,7 @@ github_username: 5LsTech
 
 # Build settings
 markdown: kramdown
-remote-theme: chrisbobbe/jekyll-theme-prologue
+remote-theme: janczizikow/sleek
 #theme: jekyll-sleek
 
 compress_html:

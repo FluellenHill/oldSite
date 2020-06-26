@@ -4,5 +4,3 @@
 
 layout: default
 ---
-
-Website design and setup, technical consultation, application development

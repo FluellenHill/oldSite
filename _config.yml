@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "5Ls Technologies"
+title: "5L's Technologies"
 email: "info@5ls.tech"
 description: >- # this means to ignore newlines until "baseurl:"
   We are two software engineers with 20 combined years of experience working with technology and over 10 combined years
@@ -44,7 +44,7 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
- exclude:
+exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

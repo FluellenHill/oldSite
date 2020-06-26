@@ -149,6 +149,10 @@ GEM
       jekyll (>= 3.3, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-sleek (0.1.9)
+      jekyll (~> 3.6)
+      jekyll-seo-tag (~> 2.3)
+      jekyll-sitemap (~> 1.1)
     jekyll-swiss (1.0.0)
     jekyll-theme-architect (0.1.1)
       jekyll (~> 3.5)
@@ -252,6 +256,7 @@ DEPENDENCIES
   devlopr (~> 0.4.5)
   github-pages
   jekyll-feed (~> 0.13.0)
+  jekyll-sleek (~> 0.1.9)
   minima (~> 2.5)
   tzinfo (~> 1.2)
   tzinfo-data
